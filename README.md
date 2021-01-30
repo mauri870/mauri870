@@ -6,8 +6,6 @@ Welcome to my profile, I am a software engineer with 4+ years of experience.
 
 Get in touch:
 
-**Email:** mauri870@gmail.com
-
 **Github:** [github.com/mauri870](https://github.com/mauri870)
 
 **Linkedin:** [linkedin.com/in/mauri870](https://linkedin.com/in/mauri870)
