@@ -8,12 +8,12 @@ Get in touch:
 
 **Email:** mauri870@gmail.com
 
-**Github:** [github.com/mauri870](github.com/mauri870)
+**Github:** [github.com/mauri870](https://github.com/mauri870)
 
-**Linkedin:** [linkedin.com/in/mauri870](linkedin.com/in/mauri870)
+**Linkedin:** [linkedin.com/in/mauri870](https://linkedin.com/in/mauri870)
 
-**Website:** [mauri870.github.io](mauri870.github.io)
+**Website:** [mauri870.github.io](https://mauri870.github.io)
 
-**Blog:** [mauri870.github.io/blog](mauri870.github.io/blog)
+**Blog:** [mauri870.github.io/blog](https://mauri870.github.io/blog)
 
-**Angel Co:** [angel.co/u/mauri870](angel.co/u/mauri870)
+**Angel Co:** [angel.co/u/mauri870](https://angel.co/u/mauri870)
