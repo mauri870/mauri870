@@ -9,10 +9,11 @@ Welcome to my profile, I am a software engineer with 4+ years of experience.
 ### Golang
 
 - [mauri870/gcsfs](https://github.com/mauri870/gcsfs) Golang io/fs implementation for Google Cloud Storage.
-- [mauri870/powershell-reverse-http](https://github.com/mauri870/powershell-reverse-http) a windows exploit service that opens a reverse http connection via meterpreter.
+- [mauri870/powershell-reverse-http](https://github.com/mauri870/powershell-reverse-http) a Windows exploit service that opens a reverse http connection via meterpreter.
 - [mauri870/rtpproxy-http-monitor](https://github.com/mauri870/rtpproxy-http-monitor) a server that monitors the availability of a RTP proxy instance.
 - [galeone/tfgo](https://github.com/galeone/tfgo/commits?author=mauri870) Tensorflow + Go, the gopher way, multiple contributions when I was doing AI with Go.
 - [google-cloud-go](https://github.com/mauri870/patches/blob/master/google-cloud-go-reuse-buffers-storage.patch) patch for google-cloud-go GCS that adds buffer reuse support.
+- [mauri870/ransomware](https://github.com/mauri870/ransomware) a POC Windows crypto-ransomware (Academic) 
 
 ### Kubernetes 
 
