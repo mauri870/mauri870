@@ -17,6 +17,7 @@ Welcome to my profile, I am a software engineer with 4+ years of experience.
 
 ### Kubernetes 
 
+- [mauri870/k8s-heartbeat](https://github.com/mauri870/k8s-heartbeat) a HTTP api that exposes monitoring endpoints to check the availability of deployments running in a kubernetes cluster. 
 - [mauri870/kubectl-renew](https://github.com/mauri870/kubectl-renew) a utility to restart pods. From kubernetes v1.15 onwards you can just use kubectl rollout restart.
 - [mauri870/knodeip](https://github.com/mauri870/knodeip) retrieve a pod's public node ip from inside the pod itself.
 
