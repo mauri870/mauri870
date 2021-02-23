@@ -50,11 +50,14 @@ Welcome to my profile, I am a software engineer with 7+ years of experience.
 - [mauri870/baking-pi](https://github.com/mauri870/baking-pi) assembly code for the OS Dev course from Cambridge University updated to the RPi 3.
 - [mauri870/assembly-fun](https://github.com/mauri870/assembly-fun) some UNIX utilies implemented in assembly for linux X64
 
-## Private / Corporative Projects
+## Private / Corporative
 
 - [AMD](https://mauri870.github.io/blog/posts/amd2-improvements) answering machine detection  for outbound calls with deep Convolutional Neural Networks.
 - Frontend - VueJS SPA's including a custom webphone webrtc which ran as a web extension, PWA, hybrid app and webapp reusing the same codebase.
-- Golang - websocket / REST / GRPC apis, kubernetes and cloud integrations.
+- Backend - websocket / REST / GRPC apis in PHP, Golang and NodeJS
+- DevOps - Deploy and management of Kubernetes clusters, Google Cloud Platform
+- CI/CD - Gitlab, Git, Docker, Continuous Integration and Delivery of projects
+- Operational - Scrum and Agile methodologies
 
 ---
 
