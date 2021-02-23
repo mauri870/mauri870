@@ -1,6 +1,6 @@
 ## Hi, my name is Mauri
 
-Welcome to my profile, I am a software engineer with 4+ years of experience.
+Welcome to my profile, I am a software engineer with 7+ years of experience.
 
 ---
 
