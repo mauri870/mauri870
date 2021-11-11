@@ -45,6 +45,7 @@ Welcome to my profile, I am a software engineer with 7+ years of experience.
 
 - [mauri870/cloudradioo-app](https://github.com/mauri870/cloudradioo-app) Electron app client for soundcloud.
 - [mauri870/tradingview-no-ads](https://github.com/mauri870/tradingview-no-ads) Extension to hide ads from TradingView.
+- [mauri870/expo-plaid-link](https://github.com/mauri870/tradingview-no-ads) Fork of expo-plaid-link that uses window events.
 
 ### Misc
 
