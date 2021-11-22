@@ -57,7 +57,7 @@ Welcome to my profile, I am a software engineer with 7+ years of experience.
 - [AMD](https://mauri870.github.io/blog/posts/amd2-improvements) answering machine detection  for outbound calls with deep Convolutional Neural Networks.
 - Frontend - VueJS SPA's including a custom webphone webrtc which ran as a web extension, PWA, hybrid app and webapp reusing the same codebase.
 - Backend - websocket / REST / GRPC apis in PHP, Golang and NodeJS
-- DevOps - Deploy and management of Kubernetes clusters, Google Cloud Platform
+- DevOps - Deploy and management of Kubernetes clusters in Google Cloud Platform, Amazon AWS
 - CI/CD - Gitlab, Git, Docker, Continuous Integration and Delivery of projects
 - Operational - Scrum and Agile methodologies
 
