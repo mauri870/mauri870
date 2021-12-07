@@ -2,6 +2,18 @@
 
 Welcome to my profile, I am a software engineer with 7+ years of experience.
 
+Get in touch:
+
+**Github:** [github.com/mauri870](https://github.com/mauri870)
+
+**Linkedin:** [linkedin.com/in/mauri870](https://linkedin.com/in/mauri870)
+
+**Website:** [mauri870.github.io](https://mauri870.github.io)
+
+**Blog:** [mauri870.github.io/blog](https://mauri870.github.io/blog)
+
+**Angel Co:** [angel.co/u/mauri870](https://angel.co/u/mauri870)
+
 ---
 
 ### Buy me a cofee!
@@ -68,18 +80,4 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - DevOps - Deploy and management of Kubernetes clusters in Google Cloud Platform, Amazon AWS
 - CI/CD - Gitlab, Git, Docker, Continuous Integration and Delivery of projects
 - Operational - Scrum and Agile methodologies
-
----
-
-Get in touch:
-
-**Github:** [github.com/mauri870](https://github.com/mauri870)
-
-**Linkedin:** [linkedin.com/in/mauri870](https://linkedin.com/in/mauri870)
-
-**Website:** [mauri870.github.io](https://mauri870.github.io)
-
-**Blog:** [mauri870.github.io/blog](https://mauri870.github.io/blog)
-
-**Angel Co:** [angel.co/u/mauri870](https://angel.co/u/mauri870)
 
