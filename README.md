@@ -4,6 +4,14 @@ Welcome to my profile, I am a software engineer with 7+ years of experience.
 
 ---
 
+### Buy me a cofee!
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9U9LSQJVEWW2L)
+
+ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
+
+---
+
 ## Open Source Projects
 
 ### Golang
