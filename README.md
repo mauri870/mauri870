@@ -52,6 +52,7 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 ### C
 
 - [mauri870/VoxelSpace9](https://github.com/mauri870/VoxelSpace9) Plan9 Voxel Space algorithm
+- [mauri870/9timeout](https://github.com/mauri870/9timeout) timeout(1), but for Plan9
 - [mauri870/syscall](https://github.com/mauri870/syscall) utility to test a linux system call from the command line.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity/commits?author=mauri870) contributions to different parts of the project.
 
