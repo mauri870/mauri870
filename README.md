@@ -68,7 +68,7 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 
 - [mauri870/cloudradioo-app](https://github.com/mauri870/cloudradioo-app) Electron app client for soundcloud.
 - [mauri870/tradingview-no-ads](https://github.com/mauri870/tradingview-no-ads) Extension to hide ads from TradingView.
-- [mauri870/expo-plaid-link](https://github.com/mauri870/tradingview-no-ads) Fork of expo-plaid-link that uses window events.
+- [mauri870/expo-plaid-link](https://github.com/mauri870/expo-plaid-link) Fork that uses window events, thus not depending on native code, allowing you to use Plaid Link inside an Expo React Native project.
 
 ### Misc
 
