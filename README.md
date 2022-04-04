@@ -51,7 +51,7 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 
 ### C
 
-- [mauri870/VoxelSpace9](https://github.com/mauri870/VoxelSpace9) Plan9 Voxel Space algorithmA
+- [mauri870/VoxelSpace9](https://github.com/mauri870/VoxelSpace9) Plan9 Voxel Space algorithm
 - [mauri870/doomgeneric](https://github.com/mauri870/doomgeneric) Doom running on Plan9
 - [mauri870/9timeout](https://github.com/mauri870/9timeout) timeout(1), but for Plan9
 - [mauri870/syscall](https://github.com/mauri870/syscall) utility to test a linux system call from the command line.
@@ -63,6 +63,7 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - [artesaos/laravel-linkedin](https://github.com/artesaos/laravel-linkedin) Linkedin API integration
 - [laravel/horizon](https://github.com/laravel/horizon/issues/715) reported and fixed a memory leak bug
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb/commit/ca0f710a4d2d61280406790dece6d10028509b46) fixed a bug with index dropping with compound indexes.
+- [artesaos/laravel-installer](https://github.com/artesaos/laravel-installer) Create a Laravel project with a specific version
 - [artesaos/laravel-docs](https://github.com/artesaos/laravel-docs) translation of the laravel docs to PT-BR.
 
 ### JS
