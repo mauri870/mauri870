@@ -35,7 +35,13 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - [mauri870/rtpproxy-http-monitor](https://github.com/mauri870/rtpproxy-http-monitor) a server that monitors the availability of a RTP proxy instance.
 - [galeone/tfgo](https://github.com/galeone/tfgo/commits?author=mauri870) Tensorflow + Go, the gopher way, multiple contributions when I was doing AI with Go.
 - [google-cloud-go](https://github.com/mauri870/patches/blob/master/google-cloud-go-reuse-buffers-storage.patch) patch for google-cloud-go GCS that adds buffer reuse support.
-- [mauri870/ransomware](https://github.com/mauri870/ransomware) a POC Windows crypto-ransomware (Academic) 
+- [mauri870/ransomware](https://github.com/mauri870/ransomware) a POC Windows crypto-ransomware (Academic)
+
+### AI
+
+- [mauri870/swishnet-pytorch](https://github.com/mauri870/swishnet-pytorch) PyTorch implementation of the SwishNet arquitecture
+- [mauri870/rust-fann-mnist](https://github.com/mauri870/rust-fann-mnist) A neural network in Rust trained on MNIST
+- [mauri870/php-fann-mnist](https://github.com/mauri870/php-fann-mnist) A neural network in PHP trained on MNIST
 
 ### Kubernetes 
 
@@ -79,10 +85,9 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 
 ## Private / Corporative
 
-- [AMD](https://mauri870.github.io/blog/posts/amd2-improvements) answering machine detection  for outbound calls with deep Convolutional Neural Networks.
+- [AMD](https://mauri870.github.io/blog/posts/amd2-improvements) research on answering machine detection for outbound calls with Deep Convolutional Neural Networks.
 - Frontend - VueJS SPA's including a custom webphone webrtc which ran as a web extension, PWA, hybrid app and webapp reusing the same codebase.
 - Backend - websocket / REST / GRPC apis in PHP, Golang and NodeJS
 - DevOps - Deploy and management of Kubernetes clusters in Google Cloud Platform, Amazon AWS
 - CI/CD - Gitlab, Git, Docker, Continuous Integration and Delivery of projects
 - Operational - Scrum and Agile methodologies
-
