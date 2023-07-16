@@ -66,6 +66,11 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - [mauri870/syscall](https://github.com/mauri870/syscall) utility to test a linux system call from the command line.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity/commits?author=mauri870) contributions to different parts of the project.
 
+### Assembly
+
+- [mauri870/baking-pi](https://github.com/mauri870/baking-pi) assembly code for the OS Dev course from Cambridge University updated to the RPi 3.
+- [mauri870/assembly-fun](https://github.com/mauri870/assembly-fun) some UNIX utilies implemented in assembly for linux X64
+
 ### PHP/Laravel
 
 - [artesaos/defender](https://github.com/artesaos/defender) package implementing roles and permissions for Laravel
@@ -80,11 +85,6 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - [mauri870/cloudradioo-app](https://github.com/mauri870/cloudradioo-app) Electron app client for soundcloud.
 - [mauri870/tradingview-no-ads](https://github.com/mauri870/tradingview-no-ads) Extension to hide ads from TradingView.
 - [mauri870/expo-plaid-link](https://github.com/mauri870/expo-plaid-link) Fork that uses window events, thus not depending on native code, allowing you to use Plaid Link inside an Expo React Native project.
-
-### Misc
-
-- [mauri870/baking-pi](https://github.com/mauri870/baking-pi) assembly code for the OS Dev course from Cambridge University updated to the RPi 3.
-- [mauri870/assembly-fun](https://github.com/mauri870/assembly-fun) some UNIX utilies implemented in assembly for linux X64
 
 ## Private / Corporative
 
