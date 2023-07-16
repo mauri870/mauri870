@@ -43,6 +43,12 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - [mauri870/rust-fann-mnist](https://github.com/mauri870/rust-fann-mnist) A neural network in Rust trained on MNIST
 - [mauri870/php-fann-mnist](https://github.com/mauri870/php-fann-mnist) A neural network in PHP trained on MNIST
 
+### Plan9
+
+- [mauri870/9timeout](https://github.com/mauri870/9timeout) timeout(1) for Plan9
+- [mauri870/VoxelSpace9](https://github.com/mauri870/VoxelSpace9) Voxel Space 2.5D engine implemented in Plan9
+- [mauri870/doomgeneric](https://github.com/mauri870/doomgeneric) Doom ported to Plan9
+
 ### Kubernetes 
 
 - [mauri870/k8s-heartbeat](https://github.com/mauri870/k8s-heartbeat) a HTTP api that exposes monitoring endpoints to check the availability of deployments running in a kubernetes cluster. 
@@ -55,15 +61,12 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) a full-text search engine in Rust, multiple contributions.
 - [mauri870/rust-fann-mnist](https://github.com/mauri870/rust-fann-mnist) a demo of a Neural Network trained on MNIST in Rust using the fann library.
 
-### C
+### C/C++
 
-- [mauri870/VoxelSpace9](https://github.com/mauri870/VoxelSpace9) Plan9 Voxel Space algorithm
-- [mauri870/doomgeneric](https://github.com/mauri870/doomgeneric) Doom running on Plan9
-- [mauri870/9timeout](https://github.com/mauri870/9timeout) timeout(1), but for Plan9
 - [mauri870/syscall](https://github.com/mauri870/syscall) utility to test a linux system call from the command line.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity/commits?author=mauri870) contributions to different parts of the project.
 
-### Laravel
+### PHP/Laravel
 
 - [artesaos/defender](https://github.com/artesaos/defender) package implementing roles and permissions for Laravel
 - [artesaos/laravel-linkedin](https://github.com/artesaos/laravel-linkedin) Linkedin API integration
