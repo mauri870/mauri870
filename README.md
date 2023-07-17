@@ -14,8 +14,6 @@ Get in touch:
 
 **Blog:** [mauri870.github.io/blog](https://mauri870.github.io/blog)
 
-**Angel Co:** [angel.co/u/mauri870](https://angel.co/u/mauri870)
-
 ---
 
 ### Buy me a cofee!
