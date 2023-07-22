@@ -87,7 +87,7 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 
 ## Private / Corporative
 
-- [AMD](https://mauri870.github.io/blog/posts/amd2-improvements) research on answering machine detection for outbound calls with Deep Convolutional Neural Networks.
+- [AMD](https://mauri870.github.io/blog/posts/amd2-improvements) - research on answering machine detection for outbound calls with Deep Convolutional Neural Networks and Autoencoders.
 - Frontend - VueJS SPA's including a custom webphone webrtc which ran as a web extension, PWA, hybrid app and webapp reusing the same codebase.
 - Backend - websocket / REST / GRPC apis in PHP, Golang and NodeJS
 - DevOps - Deploy and management of Kubernetes clusters in Google Cloud Platform, Amazon AWS
