@@ -28,6 +28,7 @@ ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
 
 ### Golang
 
+- [golang/go](https://go-review.googlesource.com/q/author:mauri870@gmail.com) Contributions to the language and compiler
 - [mauri870/gcsfs](https://github.com/mauri870/gcsfs) Golang io/fs implementation for Google Cloud Storage.
 - [mauri870/groupcache](https://github.com/mauri870/groupcache) Groupcache fork with generics support
 - [mauri870/powershell-reverse-http](https://github.com/mauri870/powershell-reverse-http) a Windows exploit service that opens a reverse http connection via meterpreter.
