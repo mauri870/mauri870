@@ -16,14 +16,6 @@ Get in touch:
 
 ---
 
-### Buy me a cofee!
-
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=9U9LSQJVEWW2L&no_recurring=0&currency_code=BRL)
-
-ETH 0x457b4Ca4A9258b1c2601bd4e72Ef31498C2f5212
-
----
-
 ## Open Source Projects
 
 ### Golang
