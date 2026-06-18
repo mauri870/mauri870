@@ -4,6 +4,8 @@
 
 Systems Engineer at Elastic, Go Code Owner, and open source contributor focused on low-level systems, runtimes, compilers, and operating systems.
 
+> **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3) to test architecture-specific features. Please reach out via [Email/LinkedIn]!
+
 ---
 
 ## Go / Golang
@@ -12,11 +14,11 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 
 - Runtime internals
 - Assembler support and architecture-specific assembly routines
-- Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3). Currently looking for hardware access to test (please reach out!)
+- Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3).
 - 128-bit atomics support for the Go standard library (targeting Go 1.28)
 - LLVM Thread Sanitizer (tsan) support for Go
 - Investigating timer precision, scheduling latency, and runtime performance improvements
-- [gomodmerge](https://github.com/mauri870/gomodmerge): CLI and git merge driver to automatically resolve conflicts in go.mod/go.sum
+- [gomodmerge](https://github.com/mauri870/gomodmerge): CLI and git merge driver to automatically resolve semantic merge conflicts in go.mod and go.sum files.
 
 ## Elastic
 
