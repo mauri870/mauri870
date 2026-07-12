@@ -37,12 +37,14 @@ The personal projects I had most fun with (no particular order):
 
 | | |
 |---|---|
-| [linux-mauri870](https://github.com/mauri870/linux-kernel) | My custom gaming kernel with patches and optimizations, used daily |
+| [linux-mauri870](https://github.com/mauri870/linux-kernel) | My daily driver custom gaming kernel with patches and optimizations |
 | [syscall](https://github.com/mauri870/syscall) | Test a Linux system call from the command line |
-| [alien](https://github.com/mauri870/alien/tree/4.x-amd-hip-port) | Port of the ALIEN simulation software from CUDA to ROCm/HIP |
 | [tiny-linux](https://linux.mauri870.com) | The most recent Linux release running in the browser |
+| [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2023 in Redis/Valkey with embedded QuickJS |
+| [plan9](https://plan9.mauri870.com) | Try Plan9 legacy directly from your browser |
+| [9front](https://github.com/mauri870/9front) | 9front diskless VM that boots over PXE with the current source tree as its root filesystem |
+| [alien](https://github.com/mauri870/alien/tree/4.x-amd-hip-port) | Port of the ALIEN simulation software from CUDA to ROCm/HIP |
 | [vulkanfs](https://github.com/mauri870/vulkanfs) | FUSE filesystem that lives in VRAM, implemented over Vulkan |
-| [redis-evaljs](https://github.com/mauri870/redis-evaljs) | ECMAScript support for Redis EVAL |
 | [raft-sqlite](https://github.com/mauri870/raft-sqlite) | SQLite backend for hashicorp/raft |
 | [doomgeneric](https://github.com/mauri870/doomgeneric/tree/plan9) | Doom ported to Plan 9 |
 | [pulsar](https://github.com/mauri870/pulsar) | Highly parallel MapReduce engine with a JavaScript runtime |
