@@ -40,7 +40,7 @@ The personal projects I had most fun with (no particular order):
 | [linux-mauri870](https://github.com/mauri870/linux-kernel) | My daily driver custom gaming kernel with patches and optimizations |
 | [syscall](https://github.com/mauri870/syscall) | Test a Linux system call from the command line |
 | [tiny-linux](https://linux.mauri870.com) | The most recent Linux release running in the browser |
-| [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2023 in Redis/Valkey with embedded QuickJS |
+| [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2025 in Redis/Valkey with embedded QuickJS |
 | [plan9](https://plan9.mauri870.com) | Try Plan9 legacy directly from your browser |
 | [9front](https://github.com/mauri870/9front) | 9front diskless VM |
 | [alien](https://github.com/mauri870/alien/tree/4.x-amd-hip-port) | Port of the ALIEN simulation software from CUDA to ROCm/HIP |
