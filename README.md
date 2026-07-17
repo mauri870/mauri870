@@ -2,7 +2,7 @@
 
 [mauri870.com](https://mauri870.com) | [linkedin](https://linkedin.com/in/mauri870)
 
-Systems Engineer at Elastic, Go Code Owner, and open source contributor focused on low-level systems, runtimes, compilers, and operating systems.
+Senior Software Engineer at Elastic, Go Code Owner, and open source contributor focused on low-level systems, runtimes, compilers, and operating systems.
 
 ---
 
@@ -25,7 +25,7 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 Senior Software Engineer on the Logstash Data Processing team.
 
 - Building Streams, Elastic's next-generation unified data ingest and processing platform
-- Previously: Ingest, Beats and Elastic Agent, open source, and the migration to an OpenTelemetry component/collector architecture
+- Previously worked on Ingest, Beats and Elastic Agent, open source, and the migration to an OpenTelemetry component/collector architecture
 
 ---
 
