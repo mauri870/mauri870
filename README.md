@@ -4,8 +4,6 @@
 
 Systems Engineer at Elastic, Go Code Owner, and open source contributor focused on low-level systems, runtimes, compilers, and operating systems.
 
-> **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3) to test architecture-specific features. Please reach out via [Email/LinkedIn]!
-
 ---
 
 ## Go / Golang
@@ -16,18 +14,18 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 - Assembler support and architecture-specific assembly routines
 - Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3).
 - 128-bit atomics support for the Go standard library (targeting Go 1.28)
-- LLVM Thread Sanitizer (tsan) support for Go
+- LLVM upstream work on Thread Sanitizer (tsan) support for Go
 - Investigating timer precision, scheduling latency, and runtime performance improvements
-- [gomodmerge](https://github.com/mauri870/gomodmerge): CLI and git merge driver to automatically resolve semantic merge conflicts in go.mod and go.sum files.
+- [gomodmerge](https://github.com/mauri870/gomodmerge): Prototype CLI and git merge driver to automatically resolve semantic merge conflicts in go.mod and go.sum files.
+
+> **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3) to test architecture-specific features. Please reach out!
 
 ## Elastic
 
-OpenTelemetry Engineer on the Ingest team at [Elastic](https://elastic.co).
+Senior Software Engineer on the Logstash Data Processing team.
 
-- Strong focus on Open Source and community involvement
-- OpenTelemetry contributions
-- Beats and Elastic Agent development
-- Migration of standalone Beats/Elastic Agent to OpenTelemetry components/collector
+- Building Streams, Elastic's next-generation unified data ingest and processing platform
+- Previously: Ingest, Beats and Elastic Agent, open source, and the migration to an OpenTelemetry component/collector architecture
 
 ---
 
