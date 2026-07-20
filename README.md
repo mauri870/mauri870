@@ -41,6 +41,7 @@ The personal projects I had most fun with (no particular order):
 | [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2025 in Redis/Valkey with embedded QuickJS |
 | [plan9](https://plan9.mauri870.com) | Try Plan9 legacy directly from your browser |
 | [9front](https://github.com/mauri870/9front) | 9front diskless VM |
+| [crayon](https://github.com/mauri870/crayon) | A CPU Emulator for the CRAY-1 supercomputer |
 | [alien](https://github.com/mauri870/alien/tree/4.x-amd-hip-port) | Port of the ALIEN simulation software from CUDA to ROCm/HIP |
 | [vulkanfs](https://github.com/mauri870/vulkanfs) | FUSE filesystem that lives in VRAM, implemented over Vulkan |
 | [raft-sqlite](https://github.com/mauri870/raft-sqlite) | SQLite backend for hashicorp/raft |
