@@ -14,11 +14,14 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 - Assembler support and architecture-specific assembly routines
 - Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3).
 - 128-bit atomics support for the Go standard library (targeting Go 1.28)
-- LLVM upstream work on Thread Sanitizer (tsan) support for Go
 - Investigating timer precision, scheduling latency, and runtime performance improvements
 - [gomodmerge](https://github.com/mauri870/gomodmerge): Prototype CLI and git merge driver to automatically resolve semantic merge conflicts in go.mod and go.sum files.
 
 > **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3) to test architecture-specific features. Please reach out!
+
+## LLVM
+
+- Focused on ThreadSanitizer(tsan) support for Go.
 
 ## Elastic
 
