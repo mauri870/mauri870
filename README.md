@@ -36,6 +36,9 @@ Senior Software Engineer on the Logstash Data Processing team.
 
 The personal projects I had most fun with (no particular order):
 
+<details>
+  <summary>Projects</summary>
+  
 | | |
 |---|---|
 | [linux-mauri870](https://github.com/mauri870/linux-kernel) | My daily driver custom gaming kernel with patches and optimizations |
@@ -53,3 +56,5 @@ The personal projects I had most fun with (no particular order):
 | [doomgeneric](https://github.com/mauri870/doomgeneric/tree/plan9) | Doom ported to Plan 9 |
 | [pulsar](https://github.com/mauri870/pulsar) | Highly parallel MapReduce engine with a JavaScript runtime |
 | [VoxelSpace9](https://github.com/mauri870/VoxelSpace9) | Voxel Space engine implemented in Plan 9 |
+  
+</details>
