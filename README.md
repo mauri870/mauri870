@@ -15,13 +15,12 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 - Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3).
 - 128-bit atomics support for the Go standard library (targeting Go 1.28)
 - Investigating timer precision, scheduling latency, and runtime performance improvements
-- [gomodmerge](https://github.com/mauri870/gomodmerge): Prototype CLI and git merge driver to automatically resolve semantic merge conflicts in go.mod and go.sum files.
 
 > **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3) to test architecture-specific features. Please reach out!
 
 ## LLVM
 
-- Focused on ThreadSanitizer(tsan) support for Go.
+- Focused on Compiler-rt/ThreadSanitizer(tsan) support for Go.
 
 ## Elastic
 
@@ -47,6 +46,7 @@ The personal projects I had most fun with (no particular order):
 | [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2025 in Redis/Valkey with embedded QuickJS |
 | [plan9](https://plan9.mauri870.com) | Try Plan9 legacy directly from your browser |
 | [9front](https://github.com/mauri870/9front) | 9front diskless VM |
+| [gomodmerge](https://github.com/mauri870/gomodmerge) | Prototype to automatically resolve semantic merge conflicts in go.mod and go.sum files |
 | [crayon](https://github.com/mauri870/crayon) | A CPU Emulator for the CRAY-1 supercomputer |
 | [cats-vs-dogs](https://github.com/mauri870/kaggle-cats-vs-dogs-redux) | My solution for the Kaggle Cats vs Dogs Redux (2016), placing 51st out of 1,400 teams. |
 | [prison](https://github.com/mauri870/prison) | Axelrod Iterated Prisoner's Dilemma tournament with assembly strategies running on a custom vm. |
