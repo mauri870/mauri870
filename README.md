@@ -25,9 +25,9 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 ## Elastic
 
 Senior Software Engineer on the Logstash Data Processing team.
+Building Streams, Elastic's next-generation unified data ingest and processing platform
 
-- Building Streams, Elastic's next-generation unified data ingest and processing platform
-- Previously worked on Ingest, Beats and Elastic Agent, open source, and the migration to an OpenTelemetry component/collector architecture
+Previously Ingest team, Beats/Elastic Agent/EDOT, focused on the migration to an OpenTelemetry component/collector architecture.
 
 ---
 
