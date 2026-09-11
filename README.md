@@ -46,7 +46,7 @@ The personal projects I had most fun with (no particular order):
 | [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2025 in Redis/Valkey with embedded QuickJS |
 | [plan9.mauri870.com](https://plan9.mauri870.com) | Try Plan9 legacy directly from your browser |
 | [9front](https://github.com/mauri870/9front) | 9front diskless VM |
-| [llvm-calc](https://github.com/mauri870/llvm-calc) | A small turing-complete language with a LLVM-based compiler |
+| [llvm-calc](https://github.com/mauri870/llvm-calc) | A small arithmetic language with a LLVM-based compiler |
 | [gomodmerge](https://github.com/mauri870/gomodmerge) | Prototype to automatically resolve semantic merge conflicts in go.mod and go.sum files |
 | [crayon](https://github.com/mauri870/crayon) | A CPU Emulator for the CRAY-1 supercomputer |
 |[factorio.mauri870.com](https://factorio.mauri870.com) | An interactive map of my most recent Factorio base |
