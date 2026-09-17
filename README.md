@@ -12,11 +12,11 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 
 - Runtime internals
 - Assembler support and architecture-specific assembly routines
-- Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3).
+- Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3+).
 - 128-bit atomics support for the Go standard library (targeting Go 1.28)
 - Investigating timer precision, scheduling latency, and runtime performance improvements
 
-> **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3) to test architecture-specific features. Please reach out!
+> **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3+) to test architecture-specific features. Please reach out!
 
 ## LLVM
 
