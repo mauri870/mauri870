@@ -8,7 +8,7 @@ Senior Software Engineer at Elastic, Go Code Owner, and open source contributor 
 
 ## Go / Golang
 
-Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programming language [go.mauri870.com](https://go.mauri870.com)
+Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programming language [go.mauri870.com](https://go.mauri870.com).
 
 - Runtime internals
 - Assembler support and architecture-specific assembly routines
@@ -22,12 +22,16 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 
 - Focused on Compiler-rt/ThreadSanitizer(tsan) support for Go.
 
+## OpenTelemetry
+
+- Focused on Elastic components and contrib repository.
+
 ## Elastic
 
 Senior Software Engineer on the Logstash Data Processing team.
-Building Streams, Elastic's next-generation unified data ingest and processing platform
+Building a compiler that powers Streams, Elastic's next-generation unified data ingest and processing platform.
 
-Previously Ingest team, Beats/Elastic Agent/EDOT, focused on the migration to an OpenTelemetry component/collector architecture.
+Previously on the Ingest team (Beats / Elastic Agent / EDOT), focused on migrating to an OpenTelemetry component/collector architecture.
 
 ---
 
