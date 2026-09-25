@@ -45,6 +45,7 @@ The personal projects I had most fun with (no particular order):
 | | |
 |---|---|
 | [linux-mauri870](https://github.com/mauri870/linux-kernel) | My daily driver custom gaming kernel with patches and optimizations |
+| [loopvec](https://github.com/mauri870/loopvec) | SIMD autovectorizer for Go loops |
 | [syscall](https://github.com/mauri870/syscall) | Test a Linux system call from the command line |
 | [linux.mauri870.com](https://linux.mauri870.com) | The most recent Linux release running in the browser |
 | [redis-evaljs](https://github.com/mauri870/redis-evaljs) | EVALJS: Executes ECMAScript 2025 in Redis/Valkey with embedded QuickJS |
