@@ -15,6 +15,7 @@ Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programmin
 - Focused on enabling newer features for modern ARM64 cores (Neoverse V2/V3+).
 - 128-bit atomics support for the Go standard library (targeting Go 1.28)
 - Investigating timer precision, scheduling latency, and runtime performance improvements
+- Working on [loopvec](https://github.com/mauri870/loopvec), a SIMD autovectorizer for Go loops
 
 > **Hardware needed:** I am currently looking for hardware access to modern ARM64 cores (Neoverse V3+) to test architecture-specific features. Please reach out!
 
