@@ -2,7 +2,7 @@
 
 [mauri870.com](https://mauri870.com) | [linkedin](https://linkedin.com/in/mauri870)
 
-Senior Software Engineer at Elastic, Go Code Owner, and open source contributor focused on low-level systems, runtimes, compilers, and operating systems.
+Systems Engineer at Elastic, Go Code Owner, and open source contributor focused on low-level systems, runtimes, compilers, and operating systems.
 
 ---
 
