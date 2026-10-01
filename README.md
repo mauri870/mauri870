@@ -8,7 +8,7 @@ Systems Engineer at Elastic, Go Code Owner, and open source contributor focused 
 
 ## Go / Golang
 
-Contributor and [Code Owner](https://dev.golang.org/owners) to the Go programming language [go.mauri870.com](https://go.mauri870.com).
+Contributor and [Code Owner](https://dev.golang.org/owners#:~:text=mauri870,-syscall) to the Go programming language [go.mauri870.com](https://go.mauri870.com).
 
 - Runtime internals
 - Assembler support and architecture-specific assembly routines
