@@ -10,8 +10,8 @@ Senior Software Engineer at Elastic, Go Code Owner, and open source contributor 
 
 Independent research on exoplanet detection.
 
-- [transitgpu](https://github.com/mauri870/transitgpu): Box Least Squares and Transit Least Squares transit searches on the GPU, with PyTorch and Triton for CUDA and ROCm ([preprint](https://github.com/mauri870/transitgpu/blob/main/paper/main.pdf))
-- [velociraptor](https://github.com/mauri870/velociraptor): GPU likelihoods for TRICERATOPS false-positive probabilities, with an exact transit light curve and a stated Monte Carlo error ([preprint](https://github.com/mauri870/velociraptor/blob/main/paper/main.pdf))
+- [transitgpu](https://github.com/mauri870/transitgpu): Parallel Search for Alien Worlds: GPU-Accelerated BLS and TLS for Exoplanet Transit Detection ([preprint](https://github.com/mauri870/transitgpu/blob/main/paper/main.pdf))
+- [velociraptor](https://github.com/mauri870/velociraptor): A fast GPU drop-in for TRICERATOPS that estimates whether a transit comes from an exoplanet or a false positive, with an exact transit light curve. ([preprint](https://github.com/mauri870/velociraptor/blob/main/paper/main.pdf))
 
 ## Go / Golang
 
