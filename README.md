@@ -10,7 +10,7 @@ Senior Software Engineer at Elastic, Go Code Owner, and open source contributor 
 
 Independent research on transit detection using photometry.
 
-- [hd170312](https://github.com/mauri870/hd170312): Discovery that the star HD 170312 is a long-period eclipsing binary, two stars whose orbits make them dim each other every few months. Found in NASA TESS data, with a reproducible pipeline that recomputes every result of the paper ([preprint](https://doi.org/10.5281/zenodo.24110892))
+- [hd170312](https://github.com/mauri870/hd170312): Discovery that the star HD 170312 is a long-period eclipsing binary, two stars whose orbits make them dim each other every few months ([preprint](https://doi.org/10.5281/zenodo.24110892))
 - [transitgpu](https://github.com/mauri870/transitgpu): Parallel Search for Alien Worlds: GPU-Accelerated BLS and TLS for Exoplanet Transit Detection ([preprint](https://github.com/mauri870/transitgpu/blob/main/paper/main.pdf))
 - [velociraptor](https://github.com/mauri870/velociraptor): A fast GPU drop-in for TRICERATOPS that estimates whether a transit comes from an exoplanet or a false positive, with an exact transit light curve. ([preprint](https://github.com/mauri870/velociraptor/blob/main/paper/main.pdf))
 
