@@ -13,6 +13,7 @@ Senior Software Engineer at Elastic, Go Code Owner, and open source contributor 
 - HD 170312 is a bright eclipsing binary with a period of 69 or 138 days ([preprint](https://doi.org/10.5281/zenodo.24285757), [code](https://github.com/mauri870/hd170312))
 - BD+66 1046: a red giant eclipsed by an M dwarf in a 28.3-day Gaia DR3 orbit ([preprint](https://doi.org/10.5281/zenodo.24193563))
 - Parallel Search for Alien Worlds: GPU-Accelerated BLS and TLS for Exoplanet Transit Detection ([preprint](https://github.com/mauri870/transitgpu/blob/main/paper/main.pdf), [code](https://github.com/mauri870/transitgpu))
+- wobbler models orbital motion and its impact on Gaia astrometric solutions ([code](https://github.com/mauri870/wobbler))
 - velociraptor: A fast GPU drop-in for TRICERATOPS that estimates whether a transit comes from an exoplanet or a false positive, with an exact transit light curve. ([preprint](https://github.com/mauri870/velociraptor/blob/main/paper/main.pdf), [code](https://github.com/mauri870/velociraptor))
 
 ## Go / Golang
